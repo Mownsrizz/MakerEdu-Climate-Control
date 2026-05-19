@@ -2,7 +2,8 @@
 
 *Read in another language: [Tiếng Việt](#-phần-tiếng-việt)*
 
-**Authors:** Nguyen Ngoc Thien (Mownsrizz - HaMaCon)
+**Author:** Nguyen Ngoc Thien (Mownsrizz - HaMaCon)  
+**Co-Author:** Vo Thanh Dat
 
 ## 📖 Introduction
 The Smart Climate Control System is an intuitive STEM educational model that accurately simulates the structure and operation of an industrial HVAC (Heating, Ventilation, and Air Conditioning) system. Moving beyond simple on/off switches, this project is engineered with a "Fail-Safe Automation" mindset, utilizing a **State Machine** architecture to protect the hardware and optimize energy efficiency.
@@ -48,7 +49,8 @@ The control algorithm is divided into a 5-state loop:
 # 🇻🇳 Phần Tiếng Việt
 # Hệ Thống Điều Hòa Không Khí Thông Minh 🌬️❄️
 
-**Tác giả:** Nguyễn Ngọc Thiện (Mownsrizz - HaMaCon)
+**Tác giả:** Nguyễn Ngọc Thiện (Mownsrizz - HaMaCon)  
+**Đồng tác giả:** Võ Thành Đạt
 
 ## 📖 Giới thiệu
 Mô hình hệ thống điều hòa không khí thông minh là một giáo cụ STEM trực quan, mô phỏng chính xác cấu trúc và nguyên lý hoạt động của hệ thống điều hòa nhiệt độ công nghiệp (HVAC). Dự án không chỉ bật/tắt thiết bị đơn thuần mà được thiết kế với tư duy "Tự động hóa an toàn" (Fail-Safe), sử dụng thuật toán **Máy trạng thái (State Machine)** để bảo vệ phần cứng và tối ưu hóa năng lượng.

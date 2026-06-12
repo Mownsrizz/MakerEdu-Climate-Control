@@ -1,8 +1,7 @@
 /*
  * ============================================================
- *  MÔ HÌNH MÔ PHỎNG HỆ THỐNG ĐIỀU HÒA KHÔNG KHÍ - V2
- *  Tin Học Trẻ Huyện Long Hồ 2025
- *  Tác giả: Võ Thành Đạt & Nguyễn Ngọc Thiện
+ *  Hệ Thống Điều Hòa Thông Minh Ứng Dụng Công Nghệ Peltier 
+ *  Tác giả: Võ Thành Đạt & Nguyễn Ngọc Thiện & Lê Trương Minh Nguyệt
  *  Mạch chủ: MakerEdu Creator (Arduino Uno Compatible)
  * ============================================================
  *

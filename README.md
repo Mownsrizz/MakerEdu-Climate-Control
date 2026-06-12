@@ -1,12 +1,12 @@
-# Smart Climate Control System 🌬️❄️
+# Smart Climate Control System using Peltier Technology 🌬️❄️
 
 *Read in another language: [Tiếng Việt](#-phần-tiếng-việt)*
 
 **Author:** Nguyen Ngoc Thien (Mownsrizz - HaMaCon)  
-**Co-Author:** Vo Thanh Dat
+**Co-Authors:** Vo Thanh Dat, Le Truong Minh Nguyet
 
 ## 📖 Introduction
-The Smart Climate Control System is an intuitive STEM educational model that accurately simulates the structure and operation of an industrial HVAC (Heating, Ventilation, and Air Conditioning) system. Moving beyond simple on/off switches, this project is engineered with a "Fail-Safe Automation" mindset, utilizing a **State Machine** architecture to protect the hardware and optimize energy efficiency.
+The "Smart Climate Control System using Peltier Technology" is an intuitive STEM educational model inspired by the need for practical learning in secondary education. In the context of complex climate change, air conditioning is essential, yet most students only know it as a household appliance without understanding the underlying mechanics. This project accurately simulates the entire cooling, heat dissipation, and automation process of an industrial HVAC system. Moving beyond simple on/off switches, it is engineered with a "Fail-Safe Automation" mindset, utilizing a **State Machine** architecture to protect the hardware and optimize energy efficiency.
 
 ## 🛠️ Key Features
 1. **Actual Heating / Cooling:** Uses the thermoelectric effect of the TEC1-12706 Peltier module combined with a water-cooling circulation system.
@@ -47,13 +47,13 @@ The control algorithm is divided into a 5-state loop:
 ---
 
 # 🇻🇳 Phần Tiếng Việt
-# Hệ Thống Điều Hòa Không Khí Thông Minh 🌬️❄️
+# Hệ Thống Điều Hòa Thông Minh Ứng Dụng Công Nghệ Peltier 🌬️❄️
 
 **Tác giả:** Nguyễn Ngọc Thiện (Mownsrizz - HaMaCon)  
-**Đồng tác giả:** Võ Thành Đạt
+**Đồng tác giả:** Võ Thành Đạt, Lê Trương Minh Nguyệt
 
 ## 📖 Giới thiệu
-Mô hình hệ thống điều hòa không khí thông minh là một giáo cụ STEM trực quan, mô phỏng chính xác cấu trúc và nguyên lý hoạt động của hệ thống điều hòa nhiệt độ công nghiệp (HVAC). Dự án không chỉ bật/tắt thiết bị đơn thuần mà được thiết kế với tư duy "Tự động hóa an toàn" (Fail-Safe), sử dụng thuật toán **Máy trạng thái (State Machine)** để bảo vệ phần cứng và tối ưu hóa năng lượng.
+Ý tưởng của sản phẩm “Hệ thống điều hòa thông minh ứng dụng công nghệ Peltier” xuất phát từ thực tiễn đời sống và nhu cầu học tập của học sinh trung học cơ sở trong các hoạt động giáo dục STEM. Nhằm giúp học sinh thấu hiểu nguyên lý làm lạnh, cơ chế truyền nhiệt và các thuật toán tự động, mô hình giáo dục trực quan này thu nhỏ toàn bộ quy trình vận hành của một chiếc máy lạnh công nghiệp. Dự án không chỉ bật/tắt thiết bị đơn thuần mà được thiết kế với tư duy "Tự động hóa an toàn" (Fail-Safe), sử dụng thuật toán **Máy trạng thái (State Machine)** để bảo vệ phần cứng, mô phỏng công nghệ Inverter thân thiện với môi trường và tối ưu hóa năng lượng.
 
 ## 🛠️ Tính năng nổi bật
 1. **Làm lạnh / Làm nóng thực tế:** Sử dụng hiệu ứng nhiệt điện của sò Peltier TEC1-12706 kết hợp hệ thống bơm tản nhiệt nước tuần hoàn.
